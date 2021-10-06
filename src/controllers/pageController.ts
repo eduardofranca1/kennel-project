@@ -36,7 +36,8 @@ export const cats = (req: Request, res: Response) => {
         banner: {
             title: 'Gatos',
             background: 'banner_cat.jpg'
-        }
+        },
+        list
     });
 }
 
